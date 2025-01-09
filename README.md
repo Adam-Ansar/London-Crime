@@ -1,4 +1,4 @@
-# Project XYZ
+# An analysis of London Crime Data.
 
 **Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
 
@@ -6,15 +6,17 @@
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
-
+* The London Crime dataset available on Kaggle contains crime statistics for London boroughs from 2008 to 2016. It includes data on various crime types, allowing for analysis of crime patterns across different geographical areas and time periods
 
 ## Business Requirements
-* Describe your business requirements
+* Data integration - extract and transform the data.
+* Crime Analysis - Identify trends in overall crime, run a comparison between the boroughs. 
+* Ethics - Ensure the data falls in line with data regulation policies. 
+* Avoid any analysis that may promote discrimination or bias.
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+*  "There is a significant variation in crime rates across different London boroughs, with central boroughs experiencing higher rates of certain types of crimes compared to outer boroughs" To validate this, I will be conducting a series of data anaytical techniques and to visualise the results to see the difference.
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
